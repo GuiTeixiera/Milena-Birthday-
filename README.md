@@ -58,7 +58,7 @@ img{
 </section>
 
 <section>
-  <img src="heart.jpg" alt="Heart collage">
+  <img src="20260926_163218_0000.png" alt="Heart collage">
   <p>
     A little heart made from my own poses.
     Corny? Maybe. Worth it? Definitely.
